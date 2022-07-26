@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LucasPedroso/easy-redux.git"
+    "url": "git+https://github.com/LucasPedroso/use-state-global-redux.git"
   },
   "keywords": [
     "easy",
